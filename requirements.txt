@@ -7,3 +7,4 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 sentence-transformers
+langchain-google-genai
